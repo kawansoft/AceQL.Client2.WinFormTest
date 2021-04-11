@@ -47,7 +47,7 @@ namespace AceQL.Client.WinFormTest
     /// <summary>
     /// Class RemoteStatement.
     /// Schema is available here: https://www.aceql.com/rest/soft/6.0/src/aceql_demo.txt 
-    /// Class contains all SQL statement that calls remote AceQL server.
+    /// Class contains all SQL statements that call remote AceQL server.
     /// <para/>Class is portable without change with Xamarin for all targets (iOS, Android, etc.)
     /// </summary>
     public class RemoteStatement
