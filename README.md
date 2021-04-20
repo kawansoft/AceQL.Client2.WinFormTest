@@ -1,6 +1,6 @@
 # AceQL.Client2.WinFormTest v2.0
 
-## March 2021, 10
+## March 10, 2021
 
 <img src="https://www.aceql.com/favicon.png" alt=""/>
 
